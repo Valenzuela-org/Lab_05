@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj": {}
+    "d:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj": {
+    "d:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj",
+        "projectUniqueName": "d:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj",
         "projectName": "Lab_05",
-        "projectPath": "D:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj",
+        "projectPath": "d:\\Proyectos\\C#\\Lab05\\Lab_05\\Lab_05.csproj",
         "packagesPath": "C:\\Users\\jhant\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\C#\\Lab05\\Lab_05\\obj\\",
+        "outputPath": "d:\\Proyectos\\C#\\Lab05\\Lab_05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhant\\AppData\\Roaming\\NuGet\\NuGet.Config"
