@@ -1,0 +1,14 @@
+D:\Proyectos\C#\Lab05\Lab05\bin\Debug\net10.0\Lab05.exe
+D:\Proyectos\C#\Lab05\Lab05\bin\Debug\net10.0\Lab05.deps.json
+D:\Proyectos\C#\Lab05\Lab05\bin\Debug\net10.0\Lab05.runtimeconfig.json
+D:\Proyectos\C#\Lab05\Lab05\bin\Debug\net10.0\Lab05.dll
+D:\Proyectos\C#\Lab05\Lab05\bin\Debug\net10.0\Lab05.pdb
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.AssemblyInfoInputs.cache
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.AssemblyInfo.cs
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.dll
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\refint\Lab05.dll
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.pdb
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\Lab05.genruntimeconfig.cache
+D:\Proyectos\C#\Lab05\Lab05\obj\Debug\net10.0\ref\Lab05.dll
